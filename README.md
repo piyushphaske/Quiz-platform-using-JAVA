@@ -1,1 +1,0 @@
-# Quiz-platform-using-JAVA
